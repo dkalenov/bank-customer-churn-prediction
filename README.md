@@ -1,5 +1,5 @@
 
-# Bank Churn Prediction
+# Bank Customers Churn Prediction
 
 ## Project objectives
 The primary objective of this project is to develop predictive models for bank customer churn.
